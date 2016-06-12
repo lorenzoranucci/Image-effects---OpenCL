@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Progetto1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ImgEffects.cpp
+c:\users\lorenzo\desktop\gervasi 2016 - es1\imgeffects\progetto1\imgeffects.cpp(72): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\lorenzo\desktop\gervasi 2016 - es1\imgeffects\progetto1\imgeffects.cpp(105): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\lorenzo\desktop\gervasi 2016 - es1\imgeffects\progetto1\imgeffects.cpp(229): warning C4838: la conversione da 'int' a 'const size_t' richiede una conversione verso un tipo di dati più piccolo
+  Progetto1.vcxproj -> C:\Users\Lorenzo\Desktop\Gervasi 2016 - ES1\ImgEffects\Debug\Progetto2.exe
+  Progetto1.vcxproj -> C:\Users\Lorenzo\Desktop\Gervasi 2016 - ES1\ImgEffects\Debug\Progetto2.pdb (Partial PDB)
